@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-ij+z@s(7eb-^$mx@*p7i_04ey95c$+gky#h^tj&w_s)0@$g*i='
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1','cadtech.herokuapp.com/']
 
